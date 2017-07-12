@@ -1,6 +1,15 @@
 # nodeauth
 This is a complete initial setup of APIs with authentication in node. Technology includes node, mongoose, express, JWT, passportjs. Download and use this app as initial setup of node apis and enhance it according to your requirements.. 
 
+# Prerequisite
+1) node js
+2) mongo db
+
+# Installation and Usage Steps - 
+i) Clone or download project in your system
+ii) Run "npm install" to install all modules defined in package json.
+ii) Run app.js File using - "node app.js" OR just use nodemon if you have installed it on your system
+
 # Example APIs
 
 # 1) Register API

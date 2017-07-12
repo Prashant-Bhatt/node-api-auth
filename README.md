@@ -65,7 +65,8 @@ Request Type: GET
 
 Headers- 
 Content-Type:application/json
-Authorization:JWT Tken HERE
+
+# Authorization:JWT Token HERE
 
 Response:- 
 {

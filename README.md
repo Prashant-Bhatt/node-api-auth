@@ -7,7 +7,9 @@ This is a complete initial setup of APIs with authentication in node. Technology
 
 # Installation and Usage Steps - 
 i) Clone or download project in your system
+
 ii) Run "npm install" to install all modules defined in package json.
+
 ii) Run app.js File using - "node app.js" OR just use nodemon if you have installed it on your system
 
 # Example APIs
